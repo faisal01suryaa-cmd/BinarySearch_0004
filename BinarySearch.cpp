@@ -117,3 +117,11 @@ void binraySearch()
     } while (ulang == 'y' || ulang == 'Y');
     
 }
+
+int main()
+{
+    input();
+    bubbleSortarray();
+    display();
+    binraySearch();
+}
