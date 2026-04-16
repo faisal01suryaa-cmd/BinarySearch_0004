@@ -57,4 +57,9 @@ void display()
     cout << "\n===================================\n";
     cout << "\nelemen array setelah dirutukan (Asc)\n";
     cout << "\n===================================\n";
+
+    for (int j = 0; j < nPanjang; j++)
+    {
+        
+    }
 }
