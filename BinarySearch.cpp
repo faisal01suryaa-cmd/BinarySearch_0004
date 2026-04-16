@@ -124,4 +124,4 @@ int main()
     bubbleSortarray();
     display();
     binarySearch();
-}
+} 
