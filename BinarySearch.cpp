@@ -54,5 +54,7 @@ void bubbleSortarray()
 
 void display()
 {
-    
+    cout << "\n===================================\n";
+    cout << "\nelemen array setelah dirutukan (Asc)\n";
+    cout << "\n===================================\n";
 }
